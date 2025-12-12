@@ -9,3 +9,4 @@ The goal is to help telecom companies identify at-risk customers early and take 
 
 ## Dashboard view 
 ![Dashboard](https://github.com/amieecode/telecommunications_churn_quest/blob/main/Images/Telecom%20Dashboard.png)
+![Dashboard](https://github.com/amieecode/telecommunications_churn_quest/blob/main/Images/Telecom%20Dashboard%202.png)
